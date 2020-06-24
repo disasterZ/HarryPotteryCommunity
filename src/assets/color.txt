@@ -1,0 +1,6 @@
+Gryffindor£º#c19451 #d02126
+Slytherin£º#b2b2b2 #249e47
+Ravenclaw£º#a37456 #0199c2
+Hufflepuff£º#1f1e1a #f5d40d
+Hogwarts£º#341206 #e2b9a7
+#e2b7a4
